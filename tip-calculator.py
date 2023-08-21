@@ -21,7 +21,7 @@ while True:
         break
     
 #this calculates the total bill with tip included.    
-BAT = TB + (TT/100)
+BAT = TB + (TB*TT/100)
 
 #this prints the bill with tip included
 print("Your bill with tip:",BAT)
