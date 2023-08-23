@@ -11,7 +11,7 @@ Thank you for exploring my Python portfolio!
 # 💡 additional Projects Ideas
 
 1.   [x] Tip calculator
-2.   [X]Cost Split 
+2.   [X] Cost Split 
 3.  Calculator
 4.  Form validator
 5.  Color picker 
