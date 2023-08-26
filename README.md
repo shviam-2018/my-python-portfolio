@@ -8,33 +8,34 @@ I'm constantly working on expanding my Python skills and tackling new challenges
 
 Thank you for exploring my Python portfolio!
 
-# 💡 additional Projects Ideas
+# 💡 Additional Projects Ideas
 
 1.   [x] Tip calculator
-2.   [X] Cost Split 
-3.  Calculator
-4.  Form validator
-5.  Color picker 
-6.  Flyout navigation
-7.  Hover effect 
-8.  Slide-in/out
-9.  Popup
-10. Tootlip
-11. JS animations
-12. To-do list
-13. Quiz
-14. Astrology prediction
-15. Color-scale generator
-16. E-commerce - color change of product
-17. Chat
-18. Conversion of units
-19. gif search
-20. Tweet search
-21. Random image
-22. Quote generator
-23. Sliders
-24. Tabs
-25. Progress bar
-26. Word count
-27. Search for word in a page
-28. Accordion
+2.   [X] Cost Split
+3.   [X] leap year calculator 
+4.  Calculator
+5.  Form validator
+6.  Color picker 
+7.  Flyout navigation
+8.  Hover effect 
+9.  Slide-in/out
+10.  Popup
+11. Tootlip
+12. JS animations
+13. To-do list
+14. Quiz
+15. Astrology prediction
+16. Color-scale generator
+17. E-commerce - color change of product
+18. Chat
+19. Conversion of units
+20. gif search
+21. Tweet search
+22. Random image
+23. Quote generator
+24. Sliders
+25. Tabs
+26. Progress bar
+27. Word count
+28. Search for word in a page
+29. Accordion
