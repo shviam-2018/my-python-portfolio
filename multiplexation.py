@@ -1,7 +1,5 @@
-import numbers
-import math
-
-multi = input("multiplu ")
-bymulti = input("multiplay by ")
-ans =  int(multi) *  int(bymulti)
-print("your anser is " + str(ans))
+i = 1
+while i<=5:
+    print(i)
+    i = i+1
+    
