@@ -85,5 +85,5 @@ if __name__=="__main__":
         
         
         else:
-            print("i cant anser you i am sorry")
-            speak("i cant anser you i am sorry")
+            print("i cant answer you i am sorry")
+            speak("i cant answer you i am sorry")
