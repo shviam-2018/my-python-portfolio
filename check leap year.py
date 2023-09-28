@@ -1,7 +1,7 @@
 #add's a infinity loop
 while True:
     
-    #this ask the user if they what to use my cod or not 
+    #this ask the user if they what to use my code or not 
     user_input = input("would you like to use leap year checker? (yes or no): ")
 
     #if the user replays yes the code exucutes 
